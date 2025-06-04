@@ -1,0 +1,7 @@
+npm install cypress
+npx cypress open
+
+npm install 
+npm run dev
+
+
